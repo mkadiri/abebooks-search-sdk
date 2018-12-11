@@ -5,7 +5,7 @@ The official abebooks documentation can be found in this folder
 
 ### Example usage
 
-Search for book by ISBN
+Search for a book by ISBN
 
 ```
 package main
